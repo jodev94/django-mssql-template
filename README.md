@@ -1,8 +1,10 @@
 # django-mssql-template
 A template for spinning up a rapid django mssql project.
 
-Note: For mssql to work you likely will need the OBDC driver (currently 17 or 18). In `/scripts` there is a shell script to get this installed on various platforms.
+Note: 
+For mssql to work you likely will need the OBDC driver (currently 17 or 18). In `/scripts` there is are shell scripts to get this installed on various platforms.
 
+Alternatively see [this Microsoft docs page](https://learn.microsoft.com/en-us/sql/connect/odbc/microsoft-odbc-driver-for-sql-server?view=sql-server-ver16) for your specific platform.
 
 ### Notes
 
